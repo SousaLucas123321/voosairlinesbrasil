@@ -1,0 +1,160 @@
+Uri: https://cdn.convertri.com/cdn.min.css?v=2026-03-18-18-43-43
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\cdn.min.css
+Content Type: text/css
+
+Uri: https://cdn.convertri.com/font-awesome/font-awesome.eot?
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\font-awesome\font-awesome.eot
+Content Type: application/octet-stream
+
+Uri: https://cdn.convertri.com/font-awesome/font-awesome.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\font-awesome\font-awesome.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn.convertri.com/font-awesome/font-awesome.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\font-awesome\font-awesome.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.convertri.com/font-awesome/font-awesome.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\font-awesome\font-awesome.woff
+Content Type: application/octet-stream
+
+Uri: https://cdn.convertri.com/img/button-skins/shopping-bag.svg
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\img\button-skins\shopping-bag.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.convertri.com/img/powered-by-badge/v1/desktop.png
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\img\powered-by-badge\v1\desktop.png
+Content Type: image/png
+
+Uri: https://cdn.convertri.com/img/powered-by-badge/v1/mobile.jpg
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\img\powered-by-badge\v1\mobile.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.convertri.com/jquery-1.12.2.min.js?v=2026-03-18-18-43-43
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\jquery-1.12.2.min.js
+Content Type: text/javascript
+
+Uri: https://convertri.imgix.net/1490a9c4-f1c2-11f0-8caa-06d664cfaed9%2F6e8ccb8fdee936d3022d2ec3bf5d016be492fb41%2FLatam.png?auto=compress,format&dpr=2&fit=scale&w=486&h=293
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\1490a9c4-f1c2-11f0-8caa-06d664cfaed96e8ccb8fdee936d3022d2ec3bf5d016be492fb41Latam-2.png
+Content Type: image/jpeg
+
+Uri: https://convertri.imgix.net/1490a9c4-f1c2-11f0-8caa-06d664cfaed9%2F6e8ccb8fdee936d3022d2ec3bf5d016be492fb41%2FLatam.png?auto=compress,format&dpr=2&fit=scale&w=497&h=310
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\1490a9c4-f1c2-11f0-8caa-06d664cfaed96e8ccb8fdee936d3022d2ec3bf5d016be492fb41Latam-3.png
+Content Type: image/jpeg
+
+Uri: https://convertri.imgix.net/1490a9c4-f1c2-11f0-8caa-06d664cfaed9%2F6e8ccb8fdee936d3022d2ec3bf5d016be492fb41%2FLatam.png?auto=compress,format&fit=scale&w=486&h=293
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\1490a9c4-f1c2-11f0-8caa-06d664cfaed96e8ccb8fdee936d3022d2ec3bf5d016be492fb41Latam.png
+Content Type: image/jpeg
+
+Uri: https://convertri.imgix.net/1490a9c4-f1c2-11f0-8caa-06d664cfaed9%2F6e8ccb8fdee936d3022d2ec3bf5d016be492fb41%2FLatam.png?auto=compress,format&fit=scale&w=497&h=310
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\1490a9c4-f1c2-11f0-8caa-06d664cfaed96e8ccb8fdee936d3022d2ec3bf5d016be492fb41Latam-1.png
+Content Type: image/jpeg
+
+Uri: https://fonts.gstatic.com/s/oswald/v57/TK3_WkUHHAIjg75cFRf3bXL8LICs13FvsUZiYA.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\oswald\v57\TK3_WkUHHAIjg75cFRf3bXL8LICs13FvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v57/TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\oswald\v57\TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v57/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiYA.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\oswald\v57\TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v57/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\oswald\v57\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v57/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9osUZiYA.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\oswald\v57\TK3_WkUHHAIjg75cFRf3bXL8LICs1y9osUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v57/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\oswald\v57\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\poppins\v24\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\poppins\v24\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\poppins\v24\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\poppins\v24\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\poppins\v24\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\poppins\v24\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\poppins\v24\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\poppins\v24\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\poppins\v24\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\poppins\v24\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\poppins\v24\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v23/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\s\sourcesanspro\v23\6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+Content Type: font/ttf
+
+Uri: https://latampassagens.convertri.com/golatam
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\golatam-1.html
+Content Type: text/html
+
+Uri: https://latampassagens.convertri.com/golatam?gad_source=1&gad_campaignid=23608546469&gbraid=0AAAABBRenCN8PEsfpScUfOO7k2IuuKe6y&gclid=CjwKCAjwyYPOBhBxEiwAgpT8P5ZY2_FEQQ6HNDyHb-5vviVvBwva2tuauKH9jgI2E_vpfU6Ke7E9lxoCRlkQAvD_BwE&utm_source=FB&utm_campaign=TESTE+2+[LATAM]+[24-03]|6958920658950&utm_medium=Viajantes+Frequentes+/+Viajantes+internacionais+frequentes+/+Viagem+(viagem+e+turismo)+[25+]|6958920659350&utm_content=2|6958920659150&utm_term=Instagram_Reels&xcod=FBhQwK21wXxRTESTE+2+[LATAM]+[24-03]|6958920658950hQwK21wXxRViajantes+Frequentes+/+Viajantes+internacionais+frequentes+/+Viagem+(viagem+e+turismo)+[25+]|6958920659350hQwK21wXxR2|6958920659150hQwK21wXxRInstagram_Reels&utm_id=6958920658950&fbclid=PAdGRleAQvRBFleHRuA2FlbQEwAGFkaWQAAAZUQA4M5nNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp05zrKcOeikekLE1PPI6iXAW_oBsUQ2kf0v6L0tQKiOl-pQWmf3sBZMy2cwU_aem_06QpL7lJrisdEGI07BkqdA
+File Name: C:\Downloaded Web Sites\latampassagens.convertri.com\golatam.html
+Content Type: text/html
+
